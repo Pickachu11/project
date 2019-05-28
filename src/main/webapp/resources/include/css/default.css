@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+textarea{resize:none;}
+.contentContainer{margin-bottom: 100px;}
+
+
+.contentTB{margin-top: 10px;}
+.contentTB .table-height{height: 200px;}
+
+.gap{margin-right: 8px;}
+.cnt{font-size: 10px; color: red};
+form.form_inline.inline{display: inline;}
+.msg_error{color: red;}
+.required{background-color: PaleGreen;}
+.msg_default{font-weight: bold;}
